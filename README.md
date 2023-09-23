@@ -1,6 +1,6 @@
 # Ayurvedic Leaf Recognition
 
-![Project Image](<Add your project image URL here>)
+![DEMO](<Screenshot 2023-09-23 210053.png>)
 
 
 ## Description
